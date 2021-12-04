@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite parallel="false" name="LocatorsTestSuite">
+
+<!-- Suite -->
+
+-<test name="TestLocators">
+
+-<classes>
+
+<class name="com.maven.project.Locators"/>
+
+</classes>
+
+</test>
+
+<!-- Test -->
+
+
+</suite>

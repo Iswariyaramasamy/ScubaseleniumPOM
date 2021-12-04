@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-04T15:27:39 IST" name="LocatorsTestSuite" finished-at="2021-12-04T15:27:44 IST" duration-ms="4926">
+    <groups>
+    </groups>
+    <test started-at="2021-12-04T15:27:39 IST" name="TestLocators" finished-at="2021-12-04T15:27:44 IST" duration-ms="4926">
+      <class name="com.maven.project.Locators">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.maven.project.Locators@72eb6200]" started-at="2021-12-04T15:27:31 IST" name="setup" finished-at="2021-12-04T15:27:39 IST" duration-ms="7612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LocatorsTest()[pri:0, instance:com.maven.project.Locators@72eb6200]" started-at="2021-12-04T15:27:39 IST" name="LocatorsTest" finished-at="2021-12-04T15:27:44 IST" duration-ms="4875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocatorsTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.maven.project.Locators@72eb6200]" started-at="2021-12-04T15:27:44 IST" name="teardown" finished-at="2021-12-04T15:27:46 IST" duration-ms="1640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.maven.project.Locators -->
+    </test> <!-- TestLocators -->
+  </suite> <!-- LocatorsTestSuite -->
+  <suite started-at="2021-12-04T15:27:46 IST" name="POMSuite" finished-at="2021-12-04T15:28:02 IST" duration-ms="16817">
+    <groups>
+    </groups>
+    <test started-at="2021-12-04T15:27:46 IST" name="POMTest" finished-at="2021-12-04T15:28:02 IST" duration-ms="16817">
+      <class name="com.maven.pageobjectmodel.LoginPageTestOne">
+        <test-method signature="Verifyvalidlogin()[pri:0, instance:com.maven.pageobjectmodel.LoginPageTestOne@309cedb6]" started-at="2021-12-04T15:27:46 IST" name="Verifyvalidlogin" finished-at="2021-12-04T15:28:02 IST" duration-ms="16815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyvalidlogin -->
+      </class> <!-- com.maven.pageobjectmodel.LoginPageTestOne -->
+    </test> <!-- POMTest -->
+  </suite> <!-- POMSuite -->
+</testng-results>

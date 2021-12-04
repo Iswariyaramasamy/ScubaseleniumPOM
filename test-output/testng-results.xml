@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-04T15:16:16 IST" name="POMSuite" finished-at="2021-12-04T15:16:33 IST" duration-ms="16745">
+    <groups>
+    </groups>
+    <test started-at="2021-12-04T15:16:16 IST" name="POMTest" finished-at="2021-12-04T15:16:33 IST" duration-ms="16745">
+      <class name="com.maven.pageobjectmodel.LoginPageTestOne">
+        <test-method signature="Verifyvalidlogin()[pri:0, instance:com.maven.pageobjectmodel.LoginPageTestOne@41fecb8b]" started-at="2021-12-04T15:16:16 IST" name="Verifyvalidlogin" finished-at="2021-12-04T15:16:33 IST" duration-ms="16673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifyvalidlogin -->
+      </class> <!-- com.maven.pageobjectmodel.LoginPageTestOne -->
+    </test> <!-- POMTest -->
+  </suite> <!-- POMSuite -->
+</testng-results>
